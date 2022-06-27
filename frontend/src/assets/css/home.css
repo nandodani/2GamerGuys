@@ -1,0 +1,37 @@
+.title-home {
+    padding-top: 8.5rem;
+}
+
+.title-home h1{
+    display: inline-block;
+}
+
+.username{
+	color: #fff;
+	background: linear-gradient(110deg, #f59f00 33%, rgba(0, 0, 0, 0) 33%), linear-gradient(110deg, #fff 100%, #f59f00 34%);
+	background-size: 400%;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.username{
+    animation: Gradient 0.1s ease infinite;
+    -webkit-animation: Gradient 5s ease infinite;
+    -moz-animation: Gradient 3s ease infinite;
+}
+
+@keyframes Gradient {
+	0% {
+		background-position: 0% 100%
+	}
+	50% {
+		background-position: 100% 00%
+	}
+	100% {
+		background-position: 0% 100%
+	}
+	
+}
+
+

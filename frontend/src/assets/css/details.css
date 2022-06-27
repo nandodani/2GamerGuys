@@ -1,0 +1,51 @@
+.main_details {
+  padding-top: 7rem;
+}
+
+.game_img {
+  width: 100%;
+  height: 90vh;
+  object-fit: cover;
+  object-position: 10% 20%;
+  border-bottom: 0.5vh solid #f59f00;
+  border-top: 0.5vh solid #f59f00;
+
+}
+
+.game_name{
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.hr_details {
+    border: 2px solid #fff; 
+}
+
+.card_description{
+    text-align:initial;
+    background-color: #272727;
+    border-radius: 2rem;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+
+}
+
+.card_description img{
+    border-radius: 2rem;
+    height: 20rem;
+    width: 25rem;
+    object-fit: cover;
+}
+
+.link_games a{
+    text-decoration: none;
+}
+
+.link_games img {
+    height: 5vh;
+}
+
+.link_games b{
+    font-size: 1.5rem;
+}

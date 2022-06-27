@@ -1,0 +1,29 @@
+.navbar {
+  background: rgba(39, 39, 39, 0.5);
+  backdrop-filter: blur(5.5px);
+  border-bottom: 1px solid rgba(245, 159, 0, 0.4);
+  height: 7rem;
+}
+
+.navbtn {
+    display: inline-block;
+    position: relative;
+  }
+  
+  .navbtn:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #f59f00;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+  
+  .navbtn:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
