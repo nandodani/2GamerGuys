@@ -16,7 +16,7 @@ Project to **"Programming III"** curricular unit of my degree: Platform to manag
 - React
 - Node.js
 - Express.js
-- API Integration [rawg.io](https://rawg.io/apidocs)
+- API Integration ([rawg.io](https://rawg.io/apidocs))
 
 
 ## Features and Functionality
