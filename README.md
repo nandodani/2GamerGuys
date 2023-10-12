@@ -42,7 +42,7 @@ npm install
 npm start
 ```
 ## Contact
-Name: Fernando Apóstolo
-Email: fernandodaniel.work@gmail.com
-LinkedIn: https://www.linkedin.com/in/fernando-apostolo
-Website: https://www.nandodani.github.io
+Name: Fernando Apóstolo \
+Email: fernandodaniel.work@gmail.com \
+LinkedIn: https://www.linkedin.com/in/fernando-apostolo \
+Website: https://www.nandodani.github.io \
