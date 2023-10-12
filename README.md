@@ -30,10 +30,10 @@ This application is not available for installation as it was developed only for 
 
 ```bash
 # Clone the repository
-git clone https://github.com/nandodani/its-weather.git
+git clone https://github.com/nandodani/2gamerguys.git
 
 # Navigate to the project folder
-cd its-weather
+cd 2gamerguys
 
 # Install dependencies
 npm install
@@ -45,4 +45,4 @@ npm start
 Name: Fernando Apóstolo \
 Email: fernandodaniel.work@gmail.com \
 LinkedIn: https://www.linkedin.com/in/fernando-apostolo \
-Website: https://www.nandodani.github.io \
+Website: https://www.nandodani.github.io 
