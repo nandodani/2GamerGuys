@@ -1,4 +1,4 @@
-# It's Weather!
+# 2GamerGuys
 
 ![Screenshot](screenshot-2gamerguys.png)
 
